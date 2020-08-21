@@ -119,7 +119,7 @@ for report in reports:
 
 ## Discoveries
 
-Big Foot poplation was most noticeble between 1998 and 2014. In the past few years, people see less and less Big Foor, which can be explained by climat change and human overpopulation. 
+Big Foot poplation was most noticeble between 1998 and 2014. In the past few years, people see less and less Big Foot, which can be explained by climate change and human overpopulation. 
 <p align="center"><img width=100% src=https://github.com/JuliaSokolova/looking_for_big_foot/blob/master/img/yearly_bigfoot_coutns.png> 
   
   
