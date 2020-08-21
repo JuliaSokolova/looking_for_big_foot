@@ -143,5 +143,7 @@ Finally, we have found how people usually describe their experience when meeting
 <p align="center"><img width=100% src=https://github.com/JuliaSokolova/looking_for_big_foot/blob/nicole/images/The_top_10_words_in_observed_topics.png> 
   
   
-  
+And, this is how they describe the enviroment where it happened:
+
+<p align="center"><img width=100% src=https://github.com/JuliaSokolova/looking_for_big_foot/blob/nicole/images/The_top_10_words_in_environment_topics.png> 
 
